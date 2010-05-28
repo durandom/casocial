@@ -1,0 +1,11 @@
+//
+// Prefix header for all source files of the 'Casocial' target in the 'Casocial' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import <CoreLocation/CoreLocation.h>
+    #import <CoreData/CoreData.h>
+    #import "Definitions.h"
+#endif

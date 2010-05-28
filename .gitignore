@@ -1,0 +1,4 @@
+server/log/*.log
+server/tmp/**/*
+server/db/*.sqlite3
+.DS_Store
